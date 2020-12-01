@@ -6,12 +6,12 @@
 
 .navbarItems
 {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Nerko One', cursive;
     font-size: 30px;
 }
 .doubtTxt
 {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Nerko One', cursive;
     font-size: 50px;
     color: #404040;
 }
@@ -24,7 +24,7 @@
 
 .ftcardstxt
 {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Nerko One', cursive;
     color: #404040;
     font-size: 25px;
 }
@@ -45,7 +45,7 @@
 
 #sublink
 {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Nerko One', cursive;
     text-decoration: none;
     color: red;
     font-size: 25px;
