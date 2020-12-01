@@ -1,6 +1,6 @@
 .navbg.scrolled 
 {
-    background-color: skyblue !important;
+    background-color: #87ceeb !important;
     transition: background-color 200ms linear;
 }
 
