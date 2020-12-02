@@ -1,6 +1,6 @@
 .navbg.scrolled 
 {
-    background-color: #FFEBCD !important;
+    background-color: rgb(134, 123, 123) !important;
     transition: background-color 200ms linear;
 }
 .navbarItems
@@ -237,10 +237,22 @@
     height: 100%;
 }
 
+.btmnav h5
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+
+.btmnav p
+{
+    font-size: 15px;
+    font-weight: 0;
+}
+
 @media only screen and (max-width: 1199px) 
 {
     nav.navbg
     {
-      background-color: #FFEBCD ;
+      background-color: darkviolet ;
     }
 }
