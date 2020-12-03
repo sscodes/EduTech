@@ -249,6 +249,6 @@
 {
     nav.navbg
     {
-      background-color: rgb(134, 123, 123) ;
+      background-color: rgb(134, 123, 123) !important;
     }
 }
