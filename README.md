@@ -6,4 +6,4 @@ It is made with HTML5, CSS3, Bootstrap4 and with some JavaScript. Besides these,
 link to the webpage is given below
 [https://sscodes.github.io/edutech/](https://sscodes.github.io/edutech/)
 
-## Please do visit and share your valuable feedback! :)
+### Please do visit and share your valuable feedback! :)
