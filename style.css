@@ -245,10 +245,20 @@
     font-weight: 0;
 }
 
+.btmnav b
+{
+    font-size: 15px;
+}
+
+.btmnav ul li
+{
+    font-size: 15px;
+}
+
 @media only screen and (max-width: 1199px) 
 {
     nav.navbg
     {
-      background-color: rgb(134, 123, 123);
+      background-color: rgb(134, 123, 123) ;
     }
 }
